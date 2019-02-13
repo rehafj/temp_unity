@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{4C6DD38A-6559-6EF7-EE07-453429DC2D56}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/arts/skybox/Mopvingbg.cs">
+    <Files>
+      <File FileName="Assets/CLICKME.cs" Line="12" Column="18" />
+      <File FileName="Assets/SwapImages.cs" Line="35" Column="60" />
+      <File FileName="Assets/SwapHead.cs" Line="17" Column="6" />
+      <File FileName="Assets/SwapLH.cs" Line="17" Column="4" />
+      <File FileName="Assets/SwapChest.cs" Line="17" Column="2" />
+      <File FileName="Assets/SwapLegs.cs" Line="17" Column="2" />
+      <File FileName="Assets/arts/skybox/Mopvingbg.cs" Line="7" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
